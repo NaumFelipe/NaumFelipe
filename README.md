@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Cursando: Análise e Desenvolvimento de Sistemas – Unipê<br><br>📚 Estudando atualmente: JavaScript e Modelagem de Dados com SQL Server<br><br>🎯 Objetivos: Construir sistemas escaláveis e eficientes que resolvam problemas Reais</p>
+<p align="left">🎓 Cursando: Análise e Desenvolvimento de Sistemas – Unipê<br><br>📚 Estudando atualmente: JavaScript e Modelagem de Dados com SQL Server<br><br>🎯 Objetivos: Construir sistemas escaláveis e eficientes que resolvam problemas reais</p>
 
 ###
 
