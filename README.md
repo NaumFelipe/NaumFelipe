@@ -1,25 +1,128 @@
-<p align="left">Olá!! 👋 Eu sou o Naum Felipe.<br><br>Dedicado a transformar ideias em código utilizando JavaScript, TypeScript, React e Node.js. Entusiasta de Sistemas Distribuídos e apaixonado por boas práticas de POO. Experiência em gestão de dados com SQL Server. Em busca constante por desafios que exijam alta performance e aprendizado contínuo.</p>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: #0d1117; /* Fundo escuro similar ao GitHub */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-###
+        .stats-card {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 24px;
+            width: 400px;
+            color: #c9d1d9;
+        }
 
-<p align="left">🎓 Cursando: Análise e Desenvolvimento de Sistemas – Unipê<br><br>📚 Estudando atualmente: JavaScript e Modelagem de Dados com SQL Server<br><br>🎯 Objetivos: Construir sistemas escaláveis e eficientes que resolvam problemas reais</p>
+        .stats-card h2 {
+            color: #ae7de0;
+            margin-top: 0;
+            font-size: 24px;
+            font-weight: 600;
+        }
 
-###
+        .language-item {
+            margin-bottom: 15px;
+        }
 
-<h2 align="left">Skills</h2>
+        .label-container {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
 
-###
+        .lang-name {
+            font-weight: 600;
+            color: #8b949e;
+        }
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+        /* Barra de progresso */
+        .progress-bg {
+            background-color: #30363d;
+            border-radius: 10px;
+            height: 8px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            border-radius: 10px;
+        }
+
+        /* Cores específicas das linguagens */
+        .css { width: 22.86%; background-color: #563d7c; }
+        .html { width: 22.82%; background-color: #e34c26; }
+        .python { width: 22.29%; background-color: #3572a5; }
+        .java { width: 16.71%; background-color: #b07219; }
+        .js { width: 15.31%; background-color: #f1e05a; }
+
+    </style>
+</head>
+<body>
+
+<div class="stats-card">
+    <h2>Most Used Languages</h2>
+
+    <div class="language-item">
+        <div class="label-container">
+            <span class="lang-name">CSS</span>
+            <span>22.86%</span>
+        </div>
+        <div class="progress-bg">
+            <div class="progress-fill css"></div>
+        </div>
+    </div>
+
+    <div class="language-item">
+        <div class="label-container">
+            <span class="lang-name">HTML</span>
+            <span>22.82%</span>
+        </div>
+        <div class="progress-bg">
+            <div class="progress-fill html"></div>
+        </div>
+    </div>
+
+    <div class="language-item">
+        <div class="label-container">
+            <span class="lang-name">Python</span>
+            <span>22.29%</span>
+        </div>
+        <div class="progress-bg">
+            <div class="progress-fill python"></div>
+        </div>
+    </div>
+
+    <div class="language-item">
+        <div class="label-container">
+            <span class="lang-name">Java</span>
+            <span>16.71%</span>
+        </div>
+        <div class="progress-bg">
+            <div class="progress-fill java"></div>
+        </div>
+    </div>
+
+    <div class="language-item">
+        <div class="label-container">
+            <span class="lang-name">JavaScript</span>
+            <span>15.31%</span>
+        </div>
+        <div class="progress-bg">
+            <div class="progress-fill js"></div>
+        </div>
+    </div>
 </div>
 
-###
+</body>
+</html>
