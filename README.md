@@ -4,7 +4,7 @@ Da curiosidade ao código: documentando minha jornada em TI.
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMaraMM&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=7&theme=dracula" />
 
   <br/><br/>
 
