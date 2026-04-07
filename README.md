@@ -17,10 +17,11 @@ Da curiosidade ao código: documentando minha jornada em TI.
 
   ### Você também pode me encontrar e entrar em contato pelos canais abaixo!
 
-  <a href="https://www.linkedin.com/in/naum-felipe/">
+  <a href="https://www.linkedin.com/in/naum-felipe/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  
+  <a href="mailto:naumfelipe17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
