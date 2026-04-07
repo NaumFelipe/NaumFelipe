@@ -1,6 +1,6 @@
 # Olá! Bem-vindo(a) ao meu GitHub! 😄
 
-Da curiosidade ao código: documentando minha jornada em TI.
+_Transformando lógica em soluções eficientes e documentando cada passo da minha evolução como Software Engineer._
 
 <div align="center">
   
