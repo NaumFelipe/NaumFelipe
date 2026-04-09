@@ -1,10 +1,10 @@
-# Olá! Bem-vindo(a) ao meu GitHub!
+# Olá! Bem-vindo(a) ao meu GitHub! 😄
 
 _Transformando lógica em soluções eficientes e documentando cada passo da minha evolução como Software Engineer._
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=8&theme=tokyonight" />
 
   <br/><br/>
 
