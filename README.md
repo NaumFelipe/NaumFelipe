@@ -14,6 +14,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e074e653508e39eadcbac33f170d6f85bd
 
   <br/><br/>
 
