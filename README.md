@@ -37,6 +37,10 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
   </tr>
 </table>
 
+### 🐍 Jogo da Cobrinha
+
+![Snake animation](https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake.svg)
+
 </div>
 
-![Snake animation](https://github.com/NaumFelipe/NaumFelipe/blob/output/github-contribution-grid-snake.svg)
+
