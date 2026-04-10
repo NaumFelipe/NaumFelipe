@@ -38,3 +38,5 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 </table>
 
 </div>
+
+![Snake animation](https://github.com/NaumFelipe/NaumFelipe/blob/output/github-contribution-grid-snake.svg)
