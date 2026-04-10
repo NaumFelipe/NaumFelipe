@@ -21,7 +21,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 
 <div align="left">
   
-  <img src="https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e74e653508e074e653508e" 
+  <img src="https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e074e653508e39eadcbac33f170d6f85bd" 
        align="right" 
        alt="GIF de contato" 
        width="150" 
