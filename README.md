@@ -17,21 +17,23 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 
 <br/><br/>
 
-<table border="0">
-  <tr>
-    <td align="left" width="600">
-      <h3>Você também pode me encontrar e entrar em contato pelos canais abaixo!</h3>
-      <a href="https://www.linkedin.com/in/naum-felipe/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="mailto:naumfelipe17@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e074e653508e39eadcbac33f170d6f85bd" width="180" />
-    </td>
-  </tr>
-</table>
+---
+
+<div align="left">
+  <img src="https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e74e653508e074e653508e" align="right" width="150" />
+  
+  <br/>
+  
+  ### Você também pode me encontrar e entrar em contato pelos canais abaixo!
+  
+  <a href="https://www.linkedin.com/in/naum-felipe/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naumfelipe17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br clear="right"/>
 
 </div>
