@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu GitHub! 😅
+# Olá! Bem-vindo(a) ao meu GitHub!
 
 _Transformando lógica em soluções eficientes e documentando cada passo da minha evolução como Software Engineer._
 
