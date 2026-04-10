@@ -17,7 +17,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 
   <br/><br/>
 
-  ### Você também pode me encontrar e entrar em contato pelos canais abaixo!
+  ### Você também pode me encontrar e entrar em contato pelos canais abaixo! 
 
   <a href="https://www.linkedin.com/in/naum-felipe/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,4 +27,11 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+</div>
+<div style="flex-shrink: 0; margin-left: 20px;">
+      <img src="https://cdn.discordapp.com/attachments/1427432399062569137/1492262139098828951/ezgif.com-speed.gif?ex=69dab0ea&is=69d95f6a&hm=8699772d4943dfa9a26469921f5580e74e653508e074e653508e074e653508e" 
+           alt="GIF de contato" width="200" height="auto" />
+    </div>
+    
+  </div>
 </div>
