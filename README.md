@@ -6,9 +6,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=8&theme=tokyonight" />
 
-
 <br>
-
 
 <table align="center" border="0">
   <tr>
