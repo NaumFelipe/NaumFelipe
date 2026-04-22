@@ -9,6 +9,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 <br>
 
 <table align="center" border="0">
+  
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></td>
