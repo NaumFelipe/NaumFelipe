@@ -20,6 +20,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
   </tr>
 </table>
 
+<br>
 
 <table border="0" width="100%">
   <tr border="0">
