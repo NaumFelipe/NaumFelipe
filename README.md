@@ -6,7 +6,8 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=8&theme=tokyonight" />
 
-<br>
+<br> 
+
 
 <table align="center" border="0">
   <tr>
@@ -18,6 +19,7 @@ _Transformando lógica em soluções eficientes e documentando cada passo da min
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></td>
   </tr>
 </table>
+
 
 <table border="0" width="100%">
   <tr border="0">
