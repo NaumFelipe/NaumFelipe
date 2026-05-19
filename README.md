@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,java,mysql,git,github)](https://skillicons.dev)
 
 ### Estatísticas
-![Top Langs](./profile/stats.svg)
+![Top Langs](./profile/langs.svg)
 
 <p align="center">
   <picture>
