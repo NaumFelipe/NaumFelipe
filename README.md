@@ -2,10 +2,10 @@
 [![Meu LinkedIn](https://img.shields.io/badge/Meu%20LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/naum-felipe)
 [![naumfelipe17@gmail.com](https://img.shields.io/badge/naumfelipe17@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:naumfelipe17@gmail.com)
 
-- 👨‍💻 Software Engineer em formação
+- 👨‍💻 Software Engineer
 - ⚙️ Construindo projetos práticos para consolidar fundamentos de desenvolvimento
 - 🌱 Aprofundando conhecimentos em React, Node.js e TypeScript
-- 📖 Estudando Full Stack Development
+- 📖 Cursando Análise e Desenvolvimento de Sistemas - UNIPÊ
 
 Transformando lógica em soluções eficientes e documentando cada passo da minha evolução como Software Engineer.
 
