@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,java,mysql,git,github)](https://skillicons.dev)
 
 ### Estatísticas
-![Top Langs](./profile/langs.svg)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=8&theme=tokyonight" />
 
 <p align="center">
   <picture>
