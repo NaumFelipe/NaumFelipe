@@ -7,8 +7,6 @@
 - 🌱 Aprofundando conhecimentos em React, Node.js e TypeScript
 - 📖 Cursando Análise e Desenvolvimento de Sistemas - UNIPÊ
 
-Transformando lógica em soluções eficientes e documentando cada passo da minha evolução como Software Engineer.
-
 ### Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,java,mysql,git,github)](https://skillicons.dev)
 
