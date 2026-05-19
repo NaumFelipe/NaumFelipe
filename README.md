@@ -11,8 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,java,mysql,git,github)](https://skillicons.dev)
 
 ### Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaumFelipe&show_icons=true&theme=dark&hide_border=true)](https://github.com/NaumFelipe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&theme=dark&hide_border=true)](https://github.com/NaumFelipe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&theme=dark&hide_border=true&langs_count=5)](https://github.com/NaumFelipe)
 
 <p align="center">
   <picture>
