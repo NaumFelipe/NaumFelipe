@@ -15,3 +15,11 @@ Transformando lógica em soluções eficientes e documentando cada passo da minh
 ### Estatísticas
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaumFelipe&show_icons=true&theme=dark&hide_border=true)](https://github.com/NaumFelipe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&theme=dark&hide_border=true)](https://github.com/NaumFelipe)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
