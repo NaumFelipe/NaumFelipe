@@ -1,22 +1,14 @@
-## Oi, eu sou o Naum Felipe 👋
-[![Meu LinkedIn](https://img.shields.io/badge/Meu%20LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/naum-felipe)
-[![naumfelipe17@gmail.com](https://img.shields.io/badge/naumfelipe17@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:naumfelipe17@gmail.com)
+<h1>Oi, eu sou o Naum Felipe 👋</h1> <h3>Analista de Dados · SQL · Python · Power BI</h3>
 
-- 👨‍💻 Software Engineer
-- ⚙️ Construindo projetos práticos para consolidar fundamentos de desenvolvimento
-- 🌱 Aprofundando conhecimentos em React, Node.js e TypeScript
-- 📖 Cursando Análise e Desenvolvimento de Sistemas - UNIPÊ
+LinkedIn Gmail
 
-### Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,java,mysql,git,github)](https://skillicons.dev)
-
-### Estatísticas
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaumFelipe&layout=compact&langs_count=8&theme=tokyonight" />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaumFelipe/NaumFelipe/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<!-- Se criar perfil no Kaggle, adicione aqui: [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/SEU_USUARIO) -->
+Sobre mim
+📊 Transformo dados em decisões: análise exploratória, indicadores (KPIs) e dashboards
+🧹 Coleta, limpeza e modelagem de dados com SQL e Python
+💻 Background em desenvolvimento de software (React, Node.js, TypeScript), o que me ajuda a automatizar processos e conversar bem com times de engenharia
+🌱 Aprofundando em estatística, Power BI e Python para análise de dados
+📖 Cursando Análise e Desenvolvimento de Sistemas - UNIPÊ
+📍 João Pessoa - PB
+Ferramentas
+<!-- Mantenha só o que você realmente usa --> <p> <img src="https://skillicons.dev/icons?i=py,mysql,postgres,git,github&theme=dark" /> </p>
